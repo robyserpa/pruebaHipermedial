@@ -1,0 +1,116 @@
+.cabecera {
+    width: 100%;
+    background-color: #343955;
+    float: left;
+}
+
+#logo {
+    width: 5%;
+    margin: 3% 1%;
+    float: left;
+}
+
+.cabecera h1 {
+    width: auto;
+    float: left;
+    margin: 4% 0%;
+    color: white;
+}
+
+.cabecera nav {
+    width: 40%;
+    margin: 3%;
+    float: right;
+    background-color: #C12907;
+}
+
+.cabecera ul {
+    width: 100%;
+    list-style-type: none;
+    color: black;
+    float: left;
+    text-align: center;
+}
+
+.cabecera nav a {
+    width: 15%;
+    padding: 0% 1%;
+    margin: 2%;
+    text-decoration: unset;
+    list-style-type: none;
+    color: white;
+    float: left;
+}
+
+.izq {
+    clear: both;
+    width: 60%;
+    padding: 2%;
+    float: left;
+}
+
+
+.der {
+    width: 30%;
+    height: 450px;
+    float: right;
+    text-align: center;
+background-color: #E2801B;
+}
+
+.der aside {
+    width: 80%;
+    height: 40%;
+    margin: 2% auto;
+    background-color: #C46401;
+}
+
+
+footer {
+    clear: both;
+    width: 100%;
+    background-color: #343955;
+    float: left;
+}
+
+footer nav {
+    width: 30%;
+    margin: 2%;
+    float: left;
+    background-color: #C12907;
+}
+
+footer ul {
+    width: 100%;
+    list-style-type: none;
+    color: black;
+    float: left;
+    text-align: center;
+}
+
+footer nav a {
+    width: 15%;
+    padding: 0% 1%;
+    margin: 2%;
+    text-decoration: unset;
+    list-style-type: none;
+    color: white;
+    float: left;
+}
+
+#redes {
+    width: 10%;
+    height: 50px;
+    margin: 3% 0%;
+    background-color: coral;
+    float: right;
+}
+
+#redes p {
+    width: 40%;
+    text-align: center ;
+    vertical-align: middle;
+    padding: 0% 3%;
+    float: left;
+    color: white;
+}
